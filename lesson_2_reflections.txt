@@ -1,0 +1,9 @@
+Reflection 1
+In the directory where initialized the repository .git forlder
+is created. This folder contains metadata which is needed
+for git operations.
+
+Reflection 2
+Staging area serves as a bridge between repository and working
+directory. With the help of staging area you can specify 
+which files from working directory to commit.
