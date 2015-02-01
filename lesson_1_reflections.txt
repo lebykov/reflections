@@ -1,0 +1,40 @@
+Reflection 1
+By viewing the diff between two files you can quickly locate 
+changes whithout scanning through the whole file. This 
+simplifies finding bugs, typoes.
+
+Reflection 2
+Having access to previous version of the file helps to retrieve
+some features and code, which were put aside along the 
+development, and appeared to be useful at this point.
+
+Reflections 3
+The pros of manual commits: logially distinguished changes.
+The pros of automatic commits: preserve loss of change due to 
+forgivnes.
+
+Reflection 4
+I think that Git version control system allows to save 
+multiple files in one commit since this preserves connection 
+between objects in files(functions, variables, etc.). This 
+feature is very important for programmers. Other systems like 
+GoogleDocs doesn't have such feature since they mostly used
+for text editing, so there is no need to preserve connections
+between objects in the files.
+
+Reflection 5
+git log command views commits that have been made to the
+repository. It has helpful options for filtering output
+data: --grep - for specific keywords, --before/--after - for
+specifying the date of the search and the time direction.
+git diff command displays changes that have beem made in
+the commit. It higlights added and deleted lines of code.
+
+Reflection 6
+With the help of version control you can roll back from the
+buggy version of the program to the working version and 
+with the help if diff option find lines witch have introduced
+the bug.
+
+Reflection 7
+I want to use Git for controling versions of my python project.
