@@ -7,3 +7,38 @@ Reflection 2
 Staging area serves as a bridge between repository and working
 directory. With the help of staging area you can specify 
 which files from working directory to commit.
+
+Reflection 3
+Using staging area you can compare files from working 
+directory and the last commit in the repository. This allows
+you to separate files with specific changes into logically
+connected commits.
+
+Reflection 4
+When you are going to add some experimental features to the 
+project but you are not sure that this feature will be used in 
+the future, you can create experimental branch. Branching is 
+helpful to keep original and experimental versions of the 
+program.
+
+Reflection 5
+With the help of diagram you can determine accessibility of 
+commits for different branches.
+
+Reflection 6
+The result of merging two branches is single branch which 
+includes commits made in both branches. Need to remember that 
+only code lines are updated not programm itself: no update for
+functions, methods or features.
+We represent the new branch as directed graph with branches
+because this way of representation shows the child-parent 
+relations for commits from different branches.
+
+Reflection 7
+The pros for automatic merging is it needs no human 
+interection. The cons is that it can't handle complicated
+situations in which different changes were made in both 
+branches to the same logical part of the file. The pros 
+of the manual merging is that it provides wide range of 
+conlict solving possibilities. The cons is that it requires
+manual work for resolving conflicts.
