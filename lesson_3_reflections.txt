@@ -8,3 +8,11 @@ Reflection2
 I would like to pull changes manually instead of having Git 
 automatically stay up-to-date with the remote repository since
 i can specify which branch pull commit to.
+
+Reflection3
+Fork copies repository from another user's github 
+account to your github account without cloning to local 
+repository. It creates link to original repository.
+Clone copies github repository to your local repository. No
+repository is created on the github.
+Branch represents variation of the project.
