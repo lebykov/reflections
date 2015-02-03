@@ -1,3 +1,10 @@
 Reflection1
-I would want to use remote repository for several reasons: if threre are goin to be several people working on project,
-if I'm going to use different working places, if I'm goin to backup projects.
+I would want to use remote repository for several reasons: if 
+threre are goin to be several people working on project,
+if I'm going to use different working places, if I'm goin to 
+backup projects.
+
+Reflection2
+I would like to pull changes manually instead of having Git 
+automatically stay up-to-date with the remote repository since
+i can specify which branch pull commit to.
