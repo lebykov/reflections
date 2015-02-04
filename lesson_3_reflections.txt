@@ -22,3 +22,8 @@ The benefits of having a copy of the last known state of the
 remote stored locally is that there will be less conflicts
 to solve when pulling remote after some time. Since another 
 user might have been commiting to it.
+
+Reflection5
+I woul use GoogleDisk and emails to collaborate without using 
+Git or GitHub. This would be harder since there is no code 
+specific features like ones in GitHub.
