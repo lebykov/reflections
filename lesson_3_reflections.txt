@@ -16,3 +16,9 @@ repository. It creates link to original repository.
 Clone copies github repository to your local repository. No
 repository is created on the github.
 Branch represents variation of the project.
+
+Reflection4
+The benefits of having a copy of the last known state of the
+remote stored locally is that there will be less conflicts
+to solve when pulling remote after some time. Since another 
+user might have been commiting to it.
