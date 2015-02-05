@@ -27,3 +27,13 @@ Reflection5
 I woul use GoogleDisk and emails to collaborate without using 
 Git or GitHub. This would be harder since there is no code 
 specific features like ones in GitHub.
+
+Reflection6
+When several people are working on the project and one of them
+is going to add new feature its reasonable to create a new 
+branch for this feature. This approach provides opportunities 
+to test feature without ruining master branch. Another approach
+is to push new feature directly into master branch. The 
+downside of this approach is that can make master branch
+messy because all updates and rollback will be made via 
+checkouts.
